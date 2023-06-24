@@ -1,2 +1,6 @@
-# ExerciciosSecao7-Parte2
-Exercícios Seção 7 - Parte 2
+# .:: Exercicios Seção 7 - Parte 2 ::.
+
+#### 1- Leia uma matriz 4 x 4, conte e escreva quantos valores maiores que 10 ela possui.
+
+[Resposta](./ExerciciosResolvidos/ex001.c)
+
