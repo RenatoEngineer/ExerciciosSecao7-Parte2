@@ -20,3 +20,7 @@
 
 [Resposta](./ExerciciosResolvidos/ex005.c)
 
+#### 6- Leia duas matrizes 4 x 4 e escreva uma terceira com os maiores valores de cada posição das matrizes lidas.
+
+[Resposta](./ExerciciosResolvidos/ex006.c)
+
