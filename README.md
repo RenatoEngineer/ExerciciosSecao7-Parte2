@@ -47,3 +47,7 @@
 
 [Resposta](./ExerciciosResolvidos/ex011.c)
 
+#### 12- Leia uma matriz de 3 x 3 elementos. Calcule e imprima a sua transposta.
+
+[Resposta](./ExerciciosResolvidos/ex012.c)
+
