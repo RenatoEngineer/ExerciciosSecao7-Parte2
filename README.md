@@ -35,3 +35,7 @@
 
 [Resposta](./ExerciciosResolvidos/ex008.c)
 
+#### 9- Leia uma matriz de 3 x 3 elementos. Calcule a soma dos elementos que estão abaixo da diagonal principal.
+
+[Resposta](./ExerciciosResolvidos/ex009.c)
+
