@@ -71,7 +71,7 @@
 
 [Resposta](./ExerciciosResolvidos/ex017.c)
 
-#### 18 - Faça um programa que permita ao usuário entrar com uma matriz de 3 x 3 números inteiros. Em seguida, gere um array unidimensional pela soma dos números de cada coluna da matriz e mostrar na tela esse array. Por exemplo, a matriz:
+#### 18- Faça um programa que permita ao usuário entrar com uma matriz de 3 x 3 números inteiros. Em seguida, gere um array unidimensional pela soma dos números de cada coluna da matriz e mostrar na tela esse array. Por exemplo, a matriz:
 
 **<p>5 −8 10</p>**
 **<p>1 2 15</p>**
@@ -80,4 +80,18 @@
 **<p>31 4 3</p>**
 
 [Resposta](./ExerciciosResolvidos/ex018.c)
+
+#### 19- Faça um programa que leia uma matriz de 5 linhas e 4 colunas contendo as seguintes informações sobre alunos de uma disciplina, sendo todas as informações do tipo inteiro:
+**<p>• Primeira coluna: número de matrícula (use um inteiro)</p>**
+**<p>• Segunda coluna: média das provas</p>**
+**<p>• Terceira coluna: média dos trabalhos</p>**
+**<p>• Quarta coluna: nota final</p>**
+
+**<p>Elabore um programa que:</p>**
+**<p>(a) Leia as três primeiras informações de cada aluno</p>**
+**<p>(b) Calcule a nota final como sendo a soma da média das provas e da média dos trabalhos</p>**
+**<p>(c) Imprima a matrícula do aluno que obteve a maior nota final (assuma que só existe uma maior nota)</p>**
+**<p>(d) Imprima a média aritmética das notas finais</p>**
+
+[Resposta](./ExerciciosResolvidos/ex019.c)
 
