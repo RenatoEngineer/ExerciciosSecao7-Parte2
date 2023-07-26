@@ -95,3 +95,11 @@
 
 [Resposta](./ExerciciosResolvidos/ex019.c)
 
+#### 20- Faça programa que leia uma matriz 3 x 6 com valores reais.
+**<p>(a) Imprima a soma de todos os elementos das colunas ímpares.</p>**
+**<p>(b) Imprima a média aritmética dos elementos da segunda e quarta colunas.</p>**
+**<p>(c) Substitua os valores da sexta coluna pela soma dos valores das colunas 1 e 2.</p>**
+**<p>(d) Imprima a matriz modificada.</p>**
+
+[Resposta](./ExerciciosResolvidos/ex020.c)
+
