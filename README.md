@@ -114,3 +114,7 @@
 
 [Resposta](./ExerciciosResolvidos/ex021.c)
 
+#### 22- Faça um programa que leia duas matrizes A e B de tamanho 3 x 3 e calcule 𝐶=𝐴∗𝐵.
+
+[Resposta](./ExerciciosResolvidos/ex022.c)
+
