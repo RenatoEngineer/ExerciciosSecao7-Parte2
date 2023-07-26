@@ -103,3 +103,14 @@
 
 [Resposta](./ExerciciosResolvidos/ex020.c)
 
+#### 21- Faça um programa que leia duas matrizes 2 x 2 com valores reais. Ofereça ao usuário um menu de opções:
+
+**<p>(a) somar as duas matrizes</p>**
+**<p>(b) subtrair a primeira matriz da segunda</p>**
+**<p>(c) adicionar uma constante às duas matrizes</p>**
+**<p>(d) imprimir as matrizes</p>**
+
+**<p>Nas duas primeiras opções uma terceira matriz 3 x 3 deve ser criada. Na terceira opção o valor da constante deve ser lido e o resultado da adição da constante deve ser armazenado na própria matriz.</p>**
+
+[Resposta](./ExerciciosResolvidos/ex021.c)
+
