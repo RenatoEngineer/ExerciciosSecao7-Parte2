@@ -149,3 +149,11 @@
 
 [Resposta](./ExerciciosResolvidos/ex024.c)
 
+#### 25- Faça um programa para determinar a próxima jogada em um Jogo da Velha. Assumir que o tabuleiro é representado por uma matriz de 3 x 3, onde cada posição representa uma das casas do tabuleiro. A matriz pode conter os seguintes valores -1, 0, 1 representando respectivamente uma casa contendo uma peça minha (-1), uma casa vazia do tabuleiro (0), e uma casa contendo uma peça do meu oponente (1).
+
+**<p>-1  1  1</p>**
+**<p>-1 -1  0</p>**
+**<p> 0  1  0</p>**
+
+[Resposta](./ExerciciosResolvidos/ex025.c)
+
